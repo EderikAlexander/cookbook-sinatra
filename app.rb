@@ -8,5 +8,5 @@ configure :development do
 end
 
 get '/' do
-  'Hello world!'
+  'Dit is mijn motherfucking eerste website!'
 end
